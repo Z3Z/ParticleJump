@@ -1,0 +1,5 @@
+name: ParticleJump
+version: 1.0.0
+main: me.Krash.ParticleJump.ParticleJump
+author: Krash
+description: A double jump plugin!
